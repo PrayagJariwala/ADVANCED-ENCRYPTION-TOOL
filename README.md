@@ -51,5 +51,5 @@ Choose Encrypt or Decrypt
 
 Made with ❤️ by Prayag Jariwala
 Connect on LinkedIn (www.linkedin.com/in/prayag-jariwala-4786b2263/)
-Follow on GitHub (https://github.com/Prayag Jariwala)
+Follow on GitHub (https://github.com/PrayagJariwala)
 
